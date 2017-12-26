@@ -18,7 +18,7 @@
         nadina samachara
     </author> 
 
-    <platform name="ios"></platform>
+  
     <platform name="android"></platform>
     <!-- one signal push -->
 	<gap:plugin name="onesignal-cordova-plugin" spec="^2.1.1" source="npm" />
